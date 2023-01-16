@@ -1,4 +1,5 @@
 # https://github.com/janfer/hassio-plejd
 name: Home assitant Plejd Add-on
-url: 'https://github.com/janfer/hassio-plejd'
-maintainer": Jan Fernquist
+url: 'https://github.com/icanos/hassio-plejd'
+maintainer": Marcus Westin <marcus@sekurbit.se>
+ 
